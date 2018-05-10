@@ -1,0 +1,14 @@
+{
+    "name": "develop-vy/menu-xpath",
+    "description": "Library for generetion menu from xml (using xpath queries)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladimir Revchuk",
+            "email": "carter123@ua.fm"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
